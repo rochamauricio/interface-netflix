@@ -1,8 +1,8 @@
 ### Recriando a interface do principal site de streaming mundial utilizando as tecnologias:
 
 - HTML5;
-- CSS3 ;
-- JavaScript ;
+- CSS3;
+- JavaScript;
 
 ### Nesse projeto foram aplicados os conceitos de: 
 
